@@ -10,14 +10,14 @@ function Home() {
         <College
           id="12321341"
           title="Hansraj-College-Delhi-University"
-          price={(5, 758)}
+          price={5758}
           rating={5}
           image="https://getmyuni.azureedge.net/college-image/big/hans-raj-college-delhi-university.jpg"
         />
         <College
           id="12321341"
           title="Hansraj-College-Delhi-University"
-          price={(5, 758)}
+          price={5758}
           rating={4}
           image="https://getmyuni.azureedge.net/college-image/big/hans-raj-college-delhi-university.jpg"
         />
@@ -26,14 +26,14 @@ function Home() {
         <College
           id="12321341"
           title="Hansraj-College-Delhi-University"
-          price={(5, 758)}
+          price={5758}
           rating={5}
           image="https://getmyuni.azureedge.net/college-image/big/hans-raj-college-delhi-university.jpg"
         />
         <College
           id="12321341"
           title="Hansraj-College-Delhi-University"
-          price={(5, 758)}
+          price={5758}
           rating={4}
           image="https://getmyuni.azureedge.net/college-image/big/hans-raj-college-delhi-university.jpg"
         />
@@ -42,14 +42,14 @@ function Home() {
         <College
           id="12321341"
           title="Hansraj-College-Delhi-University"
-          price={(5, 758)}
+          price={5758}
           rating={5}
           image="https://getmyuni.azureedge.net/college-image/big/hans-raj-college-delhi-university.jpg"
         />
         <College
           id="12321341"
           title="Hansraj-College-Delhi-University"
-          price={(5, 758)}
+          price={5758}
           rating={4}
           image="https://getmyuni.azureedge.net/college-image/big/hans-raj-college-delhi-university.jpg"
         />
@@ -58,14 +58,14 @@ function Home() {
         <College
           id="12321341"
           title="Hansraj-College-Delhi-University"
-          price={(5, 758)}
+          price={5758}
           rating={5}
           image="https://getmyuni.azureedge.net/college-image/big/hans-raj-college-delhi-university.jpg"
         />
         <College
           id="12321341"
           title="Hansraj-College-Delhi-University"
-          price={(5, 758)}
+          price={5758}
           rating={4}
           image="https://getmyuni.azureedge.net/college-image/big/hans-raj-college-delhi-university.jpg"
         />
